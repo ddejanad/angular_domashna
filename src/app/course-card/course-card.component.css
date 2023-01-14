@@ -1,0 +1,19 @@
+.course-card.begin{
+    background: rgb(237, 221, 216);
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+.course-card.beginner{
+    background-color: blueviolet;
+}
+.course-card.advanced{
+    background-color: darkorchid;
+}
+
+.course-card.intermediate{
+    background-color: darkslateblue;
+}
+
